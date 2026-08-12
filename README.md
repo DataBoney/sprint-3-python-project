@@ -1,1 +1,3 @@
-# sprint-3-python-project
+# Video Game Sales
+This project reviews video game sales data.
+Dataset Source: VGChartz
